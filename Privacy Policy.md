@@ -55,4 +55,4 @@ Es posible que actualicemos nuestra Política de Privacidad periódicamente. Le 
 
 Si tiene alguna pregunta o sugerencia sobre esta Política de Privacidad, no dude en ponerse en contacto con nosotros:
 • Desarrollador: Diego Sanchez Zoccali (DsZ Productions)
-• Correo Electrónico: Sanchez.dna@gmail.com
+• Correo Electrónico: sanchez.dna@gmail.com
